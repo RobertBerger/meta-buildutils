@@ -35,10 +35,10 @@ git branch -a
 git co master
 >> git remote -v
 
-official-upstream       git://github.com/kraj/meta-clang (fetch)
-official-upstream       git://github.com/kraj/meta-clang (push)
-origin  git@github.com:RobertBerger/meta-clang.git (fetch)
-origin  git@github.com:RobertBerger/meta-clang.git (push)
+official-upstream       git://github.com/priv-kweihmann/meta-buildutils (fetch)
+official-upstream       git://github.com/priv-kweihmann/meta-buildutils (push)
+origin  git@github.com:RobertBerger/meta-buildutils.git (fetch)
+origin  git@github.com:RobertBerger/meta-buildutils.git (push)
 
 >> git fetch official-upstream
 ---
